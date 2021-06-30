@@ -1,2 +1,2 @@
 # ML4GS
-Bonus projects of Machine Learning for Graph and Sequantial Data
+Bonus projects of lecture Machine Learning for Graph and Sequantial Data
